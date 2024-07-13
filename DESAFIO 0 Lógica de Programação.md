@@ -35,7 +35,6 @@ Se definido como True, os pares no resultado devem estar
 ordenados em ordem crescente.
 
 ● unique_pairs (booleano)
-
 Se definido como True, a função deve retornar apenas pares
 únicos (ou seja, (a, b) e (b, a) são considerados o mesmo par).
 
